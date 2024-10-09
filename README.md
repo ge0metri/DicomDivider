@@ -20,3 +20,5 @@ No need for installation, the program is self-contained
 
 # Thanks
 Thanks to the developers of wxPython and pydicom
+
+Thanks to Kasper Hansen at Aarhus University, Department of Forensic Medicine for the idea
