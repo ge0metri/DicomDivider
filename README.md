@@ -3,6 +3,10 @@ Small application made at [Aarhus University at Department of Forensic Medicine]
 
 Apparently many scanners export files in a jumble, this application was made to sort such mixed up files into neat folders.
 
+# Download 
+
+The latest version of the application can be foud under releases (look a bit right if you ar reading this)
+
 # Install
 
 No need for installation, the program is self-contained
