@@ -5,6 +5,7 @@ import wx.lib.agw.multidirdialog
 
 
 def run(paths:list, out):
+    print("By: Jonas Holt Pedersen \nat Aarhus University, Department of Forensic Medicine")
     seriesNumDict = dict()
     kernelDict = dict()
     pixelspacing = dict()
