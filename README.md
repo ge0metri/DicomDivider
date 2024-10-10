@@ -5,7 +5,7 @@ Apparently many scanners export files in a jumble, this application was made to 
 
 # Download 
 
-The latest version of the application can be foud under releases (look a bit right if you ar reading this)
+The latest version of the application can be found under releases (look a bit right if you ar reading this)
 
 # Install
 
